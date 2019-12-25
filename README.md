@@ -1,6 +1,6 @@
 #OSSRTDS
 # DSMSAPL
-Pranav Balaji \n
+Pranav Balaji
 Program for CLASS-XI CS project: deltaStoreManager a.k.a deltaStoreManagementSystem
 
 This repository contains the code for dsmapl Libraries used:
