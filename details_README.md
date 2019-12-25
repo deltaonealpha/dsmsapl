@@ -16,5 +16,6 @@ This program can:
 . Show ALL sales log.
 
 # Debugged with Microsoft Visual Studio
-# deltaonealpha.github.io
+# https://deltaonealpha.github.io/.home/
+# Website currently under development; yet live
 # dsmsapl
