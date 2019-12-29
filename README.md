@@ -2,20 +2,22 @@
 # DSMSAPL
 # Pranav Balaji
 Program for CLASS-XI CS project
-This repository contains the code for dsmapl Libraries used:
->>  datetime
->>  mysql.connector 
->>  time 
->>  os
+This repository contains the code for dsmapl.
 
-This program can:
->>  Do billing
+## Libraries used:
+#### datetime
+#### mysql.connector 
+#### time 
+#### os
 
->>  Register a new customer
+## This program can:
+#### Do billing
 
->>  Show all registered customers (uses SQL for permanent data storage)
+#### Register a new customer
 
->>  Show ALL sales log (uses os library for permanent data storage in a text file)
+#### Show all registered customers (uses SQL for permanent data storage)
+
+#### Show ALL sales log (uses os library for permanent data storage in a text file)
 
 ## LATEST CHANGES (if any - will be updated here):
 #### Removed unnecesary delays and/or shortened them.
