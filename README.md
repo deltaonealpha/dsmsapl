@@ -42,3 +42,7 @@ Debugged with Microsoft Visual Studio
 Website currently under development; yet live
 
 # dsmsapl
+
+
+## Development Notice(s):
+#### Version 3.0 now released on GitHub. (Includes splash-screen, advert-option, pop-up option and slight bug fixes)
