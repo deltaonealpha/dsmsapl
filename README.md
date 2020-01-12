@@ -46,4 +46,4 @@ Website currently under development; yet live
 
 ## Development Notice(s):
 #### Version 3.0 now released on GitHub. (Includes splash-screen, advert-option, pop-up option and slight bug fixes)
-#### Now includes FULL QUALITY printabled on the repo through external OneDrive link.
+#### Now includes FULL QUALITY printables on the repo through external OneDrive link.
