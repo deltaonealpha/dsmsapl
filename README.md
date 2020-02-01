@@ -25,6 +25,8 @@ This repository contains the code for dsmapl.
 #### > Show ALL sales log (uses os library for permanent data storage in a text file)
 
 ## LATEST CHANGES (if any - will be updated here):
+#### > 01/02/2020 - Improved overall speed by altering the code ever-so slightly (zconfterminal).
+
 #### > Removed unnecesary delays and/or shortened them.
 
 #### > Added an option for adverts (default: "Hotel? TRIVAGO!").
