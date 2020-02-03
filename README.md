@@ -4,6 +4,10 @@
 Program for CLASS-XI CS project
 
 This repository contains the code for dsmapl.
+Open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
+
+Want a completely GUI based (non-console) version? Hold my sock for version2.0, coming soon.
+* "soon" is a rather skeptical term 
 
 ## Libraries used:
 #### > datetime
