@@ -6,7 +6,7 @@ Program for CLASS-XI CS project
 This repository contains the code for dsmapl.
 Open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
 
-Want a completely GUI based (non-console) version? Hold my sock for version2.0, coming soon.
+Want a completely GUI based (non-console) version? Hold my sock for version2.0, coming later this year.
 * "soon" is a rather skeptical term 
 
 ## Libraries used:
@@ -40,6 +40,8 @@ Want a completely GUI based (non-console) version? Hold my sock for version2.0, 
 #### > Added option for script-boot-time flash-screen, with a set default one.
 
 #### > Added option for script-boot-time text pronpt with "OK" button.
+
+#### > Removed option for customer ID during registration. Instead, automated customer ID entering with succession of '1'.
 
 
 Debugged with Microsoft Visual Studio
