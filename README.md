@@ -43,6 +43,12 @@ Want a completely GUI based (non-console) version? Hold my sock for version2.0, 
 
 #### > Removed option for customer ID during registration. Instead, automated customer ID entering with succession of '1'.
 
+#### > Added printing for accessing of ALL modes to external log file alongwith the date and time.
+
+#### > Added non-echoing password input functionality using getpass.
+
+#### > Refined the interface ever so slightly.
+
 
 Debugged with Microsoft Visual Studio
 
