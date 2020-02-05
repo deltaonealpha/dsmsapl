@@ -53,6 +53,8 @@ This is a COMPLETE registry (log) for ALL changes being made to the program.
 
 #### > Presenting the new (under testing) site for the code: www.dsmsapl.bss.design
 
+#### > NEW: Presenting main password lock (including optional infrastructure for encryption using pyAesCrypt)
+
 
 Debugged with Microsoft Visual Studio
 
