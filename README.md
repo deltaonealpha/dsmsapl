@@ -9,6 +9,8 @@ Open-source billing system. Can be used by anyone until you don't copy my hardwo
 Want a completely GUI based (non-console) version? Hold my sock for version2.0, coming later this year.
 * "soon" is a rather skeptical term 
 
+This is a COMPLETE registry (log) for ALL changes being made to the program.
+
 ## Libraries used:
 #### > datetime
 #### > mysql.connector 
@@ -61,3 +63,6 @@ Website currently under development; yet live
 ## Development Notice(s):
 #### Version 3.0 now released on GitHub. (Includes splash-screen, advert-option, pop-up option and slight bug fixes)
 #### Now includes FULL QUALITY printables on the repo through external OneDrive link.
+
+CREATED BY PRANAV BALAJI
+(@deltaonealpha)
