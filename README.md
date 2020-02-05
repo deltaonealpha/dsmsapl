@@ -1,4 +1,5 @@
 #OSSRTDS
+# REGISTRY
 # deltaSTOREMANAGER
 ## by Pranav Balaji
 Program for CLASS-XI CS project
