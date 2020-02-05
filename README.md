@@ -51,6 +51,8 @@ This is a COMPLETE registry (log) for ALL changes being made to the program.
 
 #### > Refined the interface ever so slightly.
 
+#### > Presenting the new (under testing) site for the code: www.dsmsapl.bss.design
+
 
 Debugged with Microsoft Visual Studio
 
