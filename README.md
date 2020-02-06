@@ -54,7 +54,11 @@ This is a COMPLETE registry (log) for ALL changes being made to the program.
 
 #### > Presenting the new (under testing) site for the code: www.dsmsapl.bss.design
 
-#### > NEW: Presenting main password lock (including optional infrastructure for encryption using pyAesCrypt)
+#### > NEW: Presenting main password lock
+
+#### > NEW: Introducing user-name input and print through login and also in the main script via file creation.
+
+#### > NEW: Introducing LOGIN BYPASS DETECTION. The program auto-exits if the main file is straightaway run without running the login script.
 
 
 Debugged with Microsoft Visual Studio
