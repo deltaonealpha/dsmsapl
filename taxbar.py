@@ -11,7 +11,7 @@ print("Select *3* for 15%")
 print("Select *4* for 18%")
 print("Select *5* for 22%")
 taxfac = int(input("Enter tax bracket: "))
-refdef = {1:"a", 2:"b", 3:"c", 4:"d", 5:"e"}
+refdef = {1:"8", 2:"12", 3:"15", 4:"18", 5:"22"}
 for taxfac in refdef:
     x = refdef[taxfac]
 taxbar.write(x)
