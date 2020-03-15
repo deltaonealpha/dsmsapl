@@ -5,6 +5,18 @@
 This repository contains the code for dsmapl
 open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
 
+## Installation Instructions:
+. Fork master repo from: deltaonealpha.github.io/dsmsapl
+. Install ALL required libraries from PyPi:
+    -_- mysql.connector
+    -_- coloroma
+    -_- os
+    -_- time
+    -_- datetime
+    -_- opencv-python (cv2)
+. Run login script or use shortcut (if included in the repo)
+. Use anaconda to debug if facing localised installation erors
+
 ## Changelog (version-specific):
 ### v3.1 ALPHA:
 
@@ -26,7 +38,7 @@ open-source billing system. Can be used by anyone until you don't copy my hardwo
 
 #### > Code-bobs included for new tax-bar system with custom tax brackets. Will be enabled in future revisions.
 
-#### > Optimised load-timings, optimised the UI, reduced delays and corrected language in certain fields. 
+#### > Optimized load-timings and the UI, reduced delays and corrected language in certain fields. 
 
 #### > Presenting the new (under testing) site for the code: www.dsmsapl.bss.design
 
@@ -37,10 +49,10 @@ open-source billing system. Can be used by anyone until you don't copy my hardwo
 ### dsmsapl
 
 
-
 ## Development Notice(s):
 #### Version 3.1 ALPHA now released on GitHub.
 #### Now includes FULL QUALITY printables on the repo through external OneDrive link.
 
 CREATED BY PRANAV BALAJI
 (@deltaonealpha)
+
