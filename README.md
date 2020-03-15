@@ -1,28 +1,11 @@
 #OSSRTDS
-# REGISTRY
-# deltaSTOREMANAGER
+# REGISTRY: deltaSTOREMANAGER
 ## by Pranav Balaji
-Program for CLASS-XI CS project
 
-This repository contains the code for dsmapl.
-Open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
+This repository contains the code for dsmapl
+open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
 
-Want a completely GUI based (non-console) version? Hold my sock for version2.0, coming later this year.
-* "soon" is a rather skeptical term 
-
-This is a COMPLETE registry (log) for ALL changes being made to the program.
-
-## Libraries used:
-#### > datetime
-#### > mysql.connector 
-#### > time 
-#### > os
-#### > coloroma
-#### > cv2 (Open-CV for Microsoft Windows)
-#### > win32api (Windows Developer-Internal API)
-
-
-## This program can:
+### This program can:
 #### > Do billing
 
 #### > Register a new customer
@@ -31,46 +14,42 @@ This is a COMPLETE registry (log) for ALL changes being made to the program.
 
 #### > Show ALL sales log (uses os library for permanent data storage in a text file)
 
-## LATEST CHANGES (if any - will be updated here):
-#### > 01/02/2020 - Improved overall speed by altering the code ever-so slightly (zconfterminal).
 
-#### > Removed unnecesary delays and/or shortened them.
+## Changelog (version-specific):
+### v3.1 ALPHA:
+
+#### > zconf terminal introduced for echo-less admin password input and complete log-file updation.
 
 #### > Added an option for adverts (default: "Hotel? TRIVAGO!").
 
-#### > Includes FULL support for Anaconda3 (native).
+#### > Includes native anaconda support now.
 
-#### > Added option for script-boot-time flash-screen, with a set default one.
+#### > Added boot-time flash screen and prompt. 
 
-#### > Added option for script-boot-time text pronpt with "OK" button.
+#### > Custom customer ID option removed. Automatic ID system implemented in-place.
 
-#### > Removed option for customer ID during registration. Instead, automated customer ID entering with succession of '1'.
+#### > Presenting main password lock and user-name input with (username) echo in main script.
 
-#### > Added printing for accessing of ALL modes to external log file alongwith the date and time.
+#### > NEW: Added script for login-bypass prevention. Using new bridge framework for anti-snooping measures.
 
-#### > Added non-echoing password input functionality using getpass.
+#### > Encryption option made available. Tinker-around to enable AES encryption now.
 
-#### > Refined the interface ever so slightly.
+#### > Code-bobs included for new tax-bar system with custom tax brackets. Will be enabled in future revisions.
+
+#### > Optimised load-timings, optimised the UI, reduced delays and corrected language in certain fields. 
 
 #### > Presenting the new (under testing) site for the code: www.dsmsapl.bss.design
 
-#### > NEW: Presenting main password lock
-
-#### > NEW: Introducing user-name input and print through login and also in the main script via file creation.
-
-#### > NEW: Introducing LOGIN BYPASS DETECTION. The program auto-exits if the main file is straightaway run without running the login script.
 
 
-Debugged with Microsoft Visual Studio
+### https://deltaonealpha.github.io/.home/
+-------Website currently under development-------
+### dsmsapl
 
-# https://deltaonealpha.github.io/.home/
-Website currently under development; yet live
-
-# dsmsapl
 
 
 ## Development Notice(s):
-#### Version 3.0 now released on GitHub. (Includes splash-screen, advert-option, pop-up option and slight bug fixes)
+#### Version 3.1 ALPHA now released on GitHub.
 #### Now includes FULL QUALITY printables on the repo through external OneDrive link.
 
 CREATED BY PRANAV BALAJI
