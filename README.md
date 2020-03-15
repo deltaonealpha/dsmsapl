@@ -5,16 +5,6 @@
 This repository contains the code for dsmapl
 open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
 
-### This program can:
-#### > Do billing
-
-#### > Register a new customer
-
-#### > Show all registered customers (uses SQL for permanent data storage)
-
-#### > Show ALL sales log (uses os library for permanent data storage in a text file)
-
-
 ## Changelog (version-specific):
 ### v3.1 ALPHA:
 
