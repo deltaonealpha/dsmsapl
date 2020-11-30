@@ -1,58 +1,49 @@
 #OSSRTDS
-# REGISTRY: deltaSTOREMANAGER
+# deltaSTOREMANAGER
 ## by Pranav Balaji
+Program for CLASS-XI CS project
 
-This repository contains the code for dsmapl
-open-source billing system. Can be used by anyone until you don't copy my hardwork hehe.
+This repository contains the code for dsmapl.
 
-## Installation Instructions:
-. Fork master repo from: deltaonealpha.github.io/dsmsapl
-. Install ALL required libraries from PyPi:
-    -_- mysql.connector
-    -_- coloroma
-    -_- os
-    -_- time
-    -_- datetime
-    -_- opencv-python (cv2)
-. Run login script or use shortcut (if included in the repo)
-. Use anaconda to debug if facing localised installation erors
+## Libraries used:
+#### > datetime
+#### > mysql.connector 
+#### > time 
+#### > os
+#### > coloroma
+#### > cv2 (Open-CV for Microsoft Windows)
+#### > win32api (Windows Developer-Internal API)
 
-## Changelog (version-specific):
-### v3.1 ALPHA:
 
-#### > zconf terminal introduced for echo-less admin password input and complete log-file updation.
+## This program can:
+#### > Do billing
+
+#### > Register a new customer
+
+#### > Show all registered customers (uses SQL for permanent data storage)
+
+#### > Show ALL sales log (uses os library for permanent data storage in a text file)
+
+## LATEST CHANGES (if any - will be updated here):
+#### > Removed unnecesary delays and/or shortened them.
 
 #### > Added an option for adverts (default: "Hotel? TRIVAGO!").
 
-#### > Includes native anaconda support now.
+#### > Includes FULL support for Anaconda3 (native).
 
-#### > Added boot-time flash screen and prompt. 
+#### > Added option for script-boot-time flash-screen, with a set default one.
 
-#### > Custom customer ID option removed. Automatic ID system implemented in-place.
-
-#### > Presenting main password lock and user-name input with (username) echo in main script.
-
-#### > NEW: Added script for login-bypass prevention. Using new bridge framework for anti-snooping measures.
-
-#### > Encryption option made available. Tinker-around to enable AES encryption now.
-
-#### > Code-bobs included for new tax-bar system with custom tax brackets. Will be enabled in future revisions.
-
-#### > Optimized load-timings and the UI, reduced delays and corrected language in certain fields. 
-
-#### > Presenting the new (under testing) site for the code: www.dsmsapl.bss.design
+#### > Added option for script-boot-time text pronpt with "OK" button.
 
 
+Debugged with Microsoft Visual Studio
 
-### https://deltaonealpha.github.io/.home/
--------Website currently under development-------
-### dsmsapl
+# https://deltaonealpha.github.io/.home/
+Website currently under development; yet live
+
+# dsmsapl
 
 
 ## Development Notice(s):
-#### Version 3.1 ALPHA now released on GitHub.
+#### Version 3.0 now released on GitHub. (Includes splash-screen, advert-option, pop-up option and slight bug fixes)
 #### Now includes FULL QUALITY printables on the repo through external OneDrive link.
-
-CREATED BY PRANAV BALAJI
-(@deltaonealpha)
-
